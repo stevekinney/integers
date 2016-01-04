@@ -1,0 +1,14 @@
+{
+  "name": "integers",
+  "version": "1.0.0",
+  "description": "Solve Mike's challenge for lulz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Steve Kinney",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^2.3.4"
+  }
+}
